@@ -9,15 +9,24 @@ I'm a former User Researcher who has moved across the spectrum of research > des
 #### This Skill
 
 Communication
-
+- User research interviewing, talking to users of all different digitl skills
+- Regular show and tells on every project every month to two weeks - to a range of audiences
+- Presentation training
+- Presenting final project
 
 Analysis
-
+- Research analysis techniques
+- Problem framing workshops
 
 Working in Agile
+- Kanban 
+- Multi disciplinary teams
+- Putting users first (May need to be own section)
 
-
-Commitment to learning
+Passing on knowledge
+- Pair programming
+- Coding meet-ups Founders and Coders
+- Teaching interns to use prototyping kit
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -35,6 +44,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Projects
+
+
+## Online courses
+- Codeacademy Ruby
+- Free code camp
+- Code wars
+- Build portfolio youtube series
 
 
 ## Education
